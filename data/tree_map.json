@@ -1,0 +1,893 @@
+{
+  "name": "India",
+  "children": [
+    {
+      "name": "Adi",
+      "children": [
+        { "sub_language": "Adi", "total": 110307 },
+        { "sub_language": "Adi Gallong", "total": 29246 },
+        { "sub_language": "Adi Miniyong", "total": 13344 },
+        { "sub_language": "Talgalo", "total": 69256 },
+        { "sub_language": "Others", "total": 26681 }
+      ]
+    },
+    {
+      "name": "Afghani",
+      "children": [
+        { "sub_language": "Afghani", "total": 21433 },
+        { "sub_language": "Others", "total": 244 }
+      ]
+    },
+    {
+      "name": "Anal",
+      "children": [
+        { "sub_language": "Anal", "total": 24301 },
+        { "sub_language": "Others", "total": 2916 }
+      ]
+    },
+    {
+      "name": "Angami",
+      "children": [
+        { "sub_language": "Angami", "total": 40721 },
+        { "sub_language": "Others", "total": 112075 }
+      ]
+    },
+    {
+      "name": "Ao",
+      "children": [
+        { "sub_language": "Ao", "total": 119549 },
+        { "sub_language": "Chungli", "total": 70782 },
+        { "sub_language": "Mongsen", "total": 69094 },
+        { "sub_language": "Others", "total": 583 }
+      ]
+    },
+    {
+      "name": "Arabic",
+      "children": [
+        { "sub_language": "Arabic", "total": 54871 },
+        { "sub_language": "Others", "total": 76 }
+      ]
+    },
+    {
+      "name": "Assamese",
+      "children": [
+        { "sub_language": "Assamese", "total": 14816414 },
+        { "sub_language": "Others", "total": 494937 }
+      ]
+    },
+    {
+      "name": "Balti",
+      "children": [
+        { "sub_language": "Balti", "total": 13654 },
+        { "sub_language": "Others", "total": 120 }
+      ]
+    },
+    {
+      "name": "Bengali",
+      "children": [
+        { "sub_language": "Bengali", "total": 96177835 },
+        { "sub_language": "Chakma", "total": 228281 },
+        { "sub_language": "Haijong", "total": 71792 },
+        { "sub_language": "Rajbangsi", "total": 475861 },
+        { "sub_language": "Others", "total": 283900 }
+      ]
+    },
+    {
+      "name": "Bhili",
+      "children": [
+        { "sub_language": "Baori", "total": 63028 },
+        { "sub_language": "Barel", "total": 991257 },
+        { "sub_language": "Bhilali", "total": 753466 },
+        { "sub_language": "Bhili", "total": 3206533 },
+        { "sub_language": "Chodhari", "total": 110570 },
+        { "sub_language": "Dhodia", "total": 49097 },
+        { "sub_language": "Gamti", "total": 139118 },
+        { "sub_language": "Garasia", "total": 76749 },
+        { "sub_language": "Kokna", "total": 416787 },
+        { "sub_language": "Mawchi", "total": 98486 },
+        { "sub_language": "Paradhi", "total": 69085 },
+        { "sub_language": "Pawri", "total": 311677 },
+        { "sub_language": "Rathi", "total": 47801 },
+        { "sub_language": "Tadavi", "total": 52347 },
+        { "sub_language": "Varli", "total": 387481 },
+        { "sub_language": "Vasava", "total": 187036 },
+        { "sub_language": "Wagdi", "total": 3393991 },
+        { "sub_language": "Others", "total": 59128 }
+      ]
+    },
+    {
+      "name": "Bhotia",
+      "children": [
+        { "sub_language": "Bhotia", "total": 120583 },
+        { "sub_language": "Bauti", "total": 100000 },
+        { "sub_language": "Others", "total": 9371 }
+      ]
+    },
+    {
+      "name": "Bhumij",
+      "children": [
+        { "sub_language": "Bhumij", "total": 10190 },
+        { "sub_language": "Others", "total": 17316 }
+      ]
+    },
+    {
+      "name": "Bishnupuriya",
+      "children": [
+        { "sub_language": "Bishnupriya Manipuri", "total": 74069 },
+        { "sub_language": "Others", "total": 5577 }
+      ]
+    },
+    {
+      "name": "Bodo",
+      "children": [
+        { "sub_language": "Bodo", "total": 1454547 },
+        { "sub_language": "Kachari", "total": 15984 },
+        { "sub_language": "Mech", "total": 11546 },
+        { "sub_language": "Others", "total": 852 }
+      ]
+    },
+    {
+      "name": "Chakhesang",
+      "children": [{ "sub_language": "Chakhesang", "total": 19846 }]
+    },
+    {
+      "name": "Chakru",
+      "children": [{ "sub_language": "Chakru", "total": 91216 }]
+    },
+    {
+      "name": "Chang",
+      "children": [{ "sub_language": "Chang", "total": 66852 }]
+    },
+    {
+      "name": "Coorgi",
+      "children": [
+        { "sub_language": "Coorgi", "total": 16939 },
+        { "sub_language": "Kodava", "total": 96918 }
+      ]
+    },
+    {
+      "name": "Deori",
+      "children": [{ "sub_language": "Deori", "total": 32376 }]
+    },
+    {
+      "name": "Dimasa",
+      "children": [
+        { "sub_language": "Dimasa", "total": 133327 },
+        { "sub_language": "Others", "total": 3857 }
+      ]
+    },
+    {
+      "name": "Dogri",
+      "children": [
+        { "sub_language": "Dogri", "total": 2596763 },
+        { "sub_language": "Others", "total": 4 }
+      ]
+    },
+    {
+      "name": "English",
+      "children": [{ "sub_language": "English", "total": 259678 }]
+    },
+    {
+      "name": "Gadaba",
+      "children": [
+        { "sub_language": "Gadaba", "total": 40965 },
+        { "sub_language": "Others", "total": 11 }
+      ]
+    },
+    {
+      "name": "Gangte",
+      "children": [{ "sub_language": "Gangte", "total": 16542 }]
+    },
+    {
+      "name": "Garo",
+      "children": [
+        { "sub_language": "Garo", "total": 1125359 },
+        { "sub_language": "Others", "total": 19964 }
+      ]
+    },
+    {
+      "name": "Gondi",
+      "children": [
+        { "sub_language": "Dorli", "total": 47701 },
+        { "sub_language": "Gondi", "total": 2856581 },
+        { "sub_language": "Kalari", "total": 26769 },
+        { "sub_language": "Maria", "total": 15864 },
+        { "sub_language": "Others", "total": 37538 }
+      ]
+    },
+    {
+      "name": "Gujarati",
+      "children": [
+        { "sub_language": "Gujarati", "total": 55036204 },
+        { "sub_language": "Gujrao", "total": 15431 },
+        { "sub_language": "Pattani", "total": 16510 },
+        { "sub_language": "Ponchi", "total": 13812 },
+        { "sub_language": "Saurashtra", "total": 247702 },
+        { "sub_language": "Others", "total": 162895 }
+      ]
+    },
+    {
+      "name": "Halabi",
+      "children": [
+        { "sub_language": "Halabi", "total": 765464 },
+        { "sub_language": "Others", "total": 833 }
+      ]
+    },
+    {
+      "name": "Halam",
+      "children": [
+        { "sub_language": "Halam", "total": 26534 },
+        { "sub_language": "Others", "total": 12381 }
+      ]
+    },
+    {
+      "name": "Hindi",
+      "children": [
+        { "sub_language": "Awadhi", "total": 3850906 },
+        { "sub_language": "Baghati", "total": 15835 },
+        { "sub_language": "Bagheli", "total": 2679129 },
+        { "sub_language": "Bagri Rajasthani", "total": 234227 },
+        { "sub_language": "Banjari", "total": 1581271 },
+        { "sub_language": "Bhadrawahi", "total": 98806 },
+        { "sub_language": "Bhagoria", "total": 20924 },
+        { "sub_language": "Bharmauri", "total": 181069 },
+        { "sub_language": "Bhojpuri", "total": 50579447 },
+        { "sub_language": "Bishnoi", "total": 12079 },
+        { "sub_language": "Brajbhasha", "total": 1556314 },
+        { "sub_language": "Bundeli", "total": 5626356 },
+        { "sub_language": "Chambeali", "total": 125746 },
+        { "sub_language": "Chhattisgarhi", "total": 16245190 },
+        { "sub_language": "Churahi", "total": 75552 },
+        { "sub_language": "Dhundhari", "total": 1476446 },
+        { "sub_language": "Garhwali", "total": 2482089 },
+        { "sub_language": "Gawari", "total": 19062 },
+        { "sub_language": "Gojri", "total": 1227901 },
+        { "sub_language": "Handuri", "total": 47803 },
+        { "sub_language": "Hara", "total": 2944356 },
+        { "sub_language": "Haryanvi", "total": 9806519 },
+        { "sub_language": "Hindi", "total": 322230097 },
+        { "sub_language": "Jaunpuri", "total": 136779 },
+        { "sub_language": "Kangri", "total": 1117342 },
+        { "sub_language": "Khari Boli", "total": 50195 },
+        { "sub_language": "Khortha", "total": 8038735 },
+        { "sub_language": "Kulvi", "total": 196295 },
+        { "sub_language": "Kumauni", "total": 2081057 },
+        { "sub_language": "Kurmali Thar", "total": 311175 },
+        { "sub_language": "Lamani", "total": 3276548 },
+        { "sub_language": "Laria", "total": 89876 },
+        { "sub_language": "Lodhi", "total": 139180 },
+        { "sub_language": "Magadhi", "total": 12706825 },
+        { "sub_language": "Malvi", "total": 5212617 },
+        { "sub_language": "Mandeali", "total": 622590 },
+        { "sub_language": "Marwari", "total": 7831749 },
+        { "sub_language": "Mewari", "total": 4212262 },
+        { "sub_language": "Mewati", "total": 856643 },
+        { "sub_language": "Nagpuria", "total": 763014 },
+        { "sub_language": "Nimadi", "total": 2309265 },
+        { "sub_language": "Padari", "total": 17279 },
+        { "sub_language": "Pahari", "total": 3253889 },
+        { "sub_language": "Palmuha", "total": 23579 },
+        { "sub_language": "Panch Pargania", "total": 244914 },
+        { "sub_language": "Pando", "total": 15595 },
+        { "sub_language": "Pangwali", "total": 18668 },
+        { "sub_language": "Pawari", "total": 325772 },
+        { "sub_language": "Puran", "total": 12375 },
+        { "sub_language": "Rajasthani", "total": 25806344 },
+        { "sub_language": "Sadan", "total": 4345677 },
+        { "sub_language": "Sirmauri", "total": 107401 },
+        { "sub_language": "Sondwari", "total": 229788 },
+        { "sub_language": "Sugali", "total": 170987 },
+        { "sub_language": "Surgujia", "total": 1738256 },
+        { "sub_language": "Surjapuri", "total": 2256228 },
+        { "sub_language": "Others", "total": 16711170 }
+      ]
+    },
+    {
+      "name": "Hmar",
+      "children": [{ "sub_language": "Hmar", "total": 98988 }]
+    },
+    {
+      "name": "Ho",
+      "children": [
+        { "sub_language": "Ho", "total": 1410996 },
+        { "sub_language": "Lohara", "total": 10422 }
+      ]
+    },
+    {
+      "name": "Jatapu",
+      "children": [
+        { "sub_language": "Jatapu", "total": 19990 },
+        { "sub_language": "Others", "total": 38 }
+      ]
+    },
+    {
+      "name": "Juang",
+      "children": [{ "sub_language": "Juang", "total": 30378 }]
+    },
+    {
+      "name": "Kabui",
+      "children": [
+        { "sub_language": "Kabui", "total": 54220 },
+        { "sub_language": "Rongmei", "total": 68706 },
+        { "sub_language": "Others", "total": 5 }
+      ]
+    },
+    {
+      "name": "Kannada",
+      "children": [
+        { "sub_language": "Badaga", "total": 133550 },
+        { "sub_language": "Kannada", "total": 43506272 },
+        { "sub_language": "Kuruba", "total": 24189 },
+        { "sub_language": "Prakritha", "total": 12257 },
+        { "sub_language": "Others", "total": 30244 }
+      ]
+    },
+    {
+      "name": "Karbi",
+      "children": [{ "sub_language": "Karbi", "total": 528503 }]
+    },
+    {
+      "name": "Kashmiri",
+      "children": [
+        { "sub_language": "Kashmiri", "total": 6554369 },
+        { "sub_language": "Kishtwari", "total": 39748 },
+        { "sub_language": "Siraji", "total": 124896 },
+        { "sub_language": "Dardi", "total": 25600 },
+        { "sub_language": "Others", "total": 52974 }
+      ]
+    },
+    {
+      "name": "Khandeshi",
+      "children": [
+        { "sub_language": "Ahirani", "total": 1636465 },
+        { "sub_language": "Dangi", "total": 150674 },
+        { "sub_language": "Gujari", "total": 57171 },
+        { "sub_language": "Khandeshi", "total": 10670 },
+        { "sub_language": "Others", "total": 5256 }
+      ]
+    },
+    {
+      "name": "Kharia",
+      "children": [
+        { "sub_language": "Kharia", "total": 293665 },
+        { "sub_language": "Others", "total": 3949 }
+      ]
+    },
+    {
+      "name": "Khasi",
+      "children": [
+        { "sub_language": "Khasi", "total": 1037964 },
+        { "sub_language": "Lyngngam", "total": 11586 },
+        { "sub_language": "Pnar", "total": 319324 },
+        { "sub_language": "War", "total": 51558 },
+        { "sub_language": "Others", "total": 10912 }
+      ]
+    },
+    {
+      "name": "Khezha",
+      "children": [
+        { "sub_language": "Khezha", "total": 36383 },
+        { "sub_language": "Others", "total": 5242 }
+      ]
+    },
+    {
+      "name": "Khiemnungan",
+      "children": [
+        { "sub_language": "Khiemnungan", "total": 61968 },
+        { "sub_language": "Others", "total": 15 }
+      ]
+    },
+    {
+      "name": "Khond",
+      "children": [
+        { "sub_language": "Khond", "total": 111693 },
+        { "sub_language": "Kuvi", "total": 43855 }
+      ]
+    },
+    {
+      "name": "Kinnauri",
+      "children": [
+        { "sub_language": "Kinnauri", "total": 83427 },
+        { "sub_language": "Others", "total": 134 }
+      ]
+    },
+    {
+      "name": "Kisan",
+      "children": [{ "sub_language": "Kisan", "total": 206100 }]
+    },
+    {
+      "name": "Koch",
+      "children": [
+        { "sub_language": "Koch", "total": 33962 },
+        { "sub_language": "Others", "total": 2472 }
+      ]
+    },
+    {
+      "name": "Koda",
+      "children": [
+        { "sub_language": "Koda", "total": 47181 },
+        { "sub_language": "Others", "total": 87 }
+      ]
+    },
+    {
+      "name": "Kolami",
+      "children": [{ "sub_language": "Kolami", "total": 128451 }]
+    },
+    { "name": "Kom", "children": [{ "sub_language": "Kom", "total": 15108 }] },
+    {
+      "name": "Konda",
+      "children": [
+        { "sub_language": "Kodu", "total": 32166 },
+        { "sub_language": "Konda", "total": 24987 },
+        { "sub_language": "Others", "total": 3546 }
+      ]
+    },
+    {
+      "name": "Konkani",
+      "children": [
+        { "sub_language": "Konkani", "total": 2146906 },
+        { "sub_language": "Kudubi", "total": 17209 },
+        { "sub_language": "Malwani", "total": 23617 },
+        { "sub_language": "Nawait", "total": 13123 },
+        { "sub_language": "Gorboli", "total": 50259 },
+        { "sub_language": "Others", "total": 5388 }
+      ]
+    },
+    {
+      "name": "Konyak",
+      "children": [{ "sub_language": "Konyak", "total": 244477 }]
+    },
+    {
+      "name": "Korku",
+      "children": [
+        { "sub_language": "Korku", "total": 688053 },
+        { "sub_language": "Muwasi", "total": 35827 },
+        { "sub_language": "Others", "total": 3253 }
+      ]
+    },
+    {
+      "name": "Korwa",
+      "children": [
+        { "sub_language": "Koraku", "total": 16154 },
+        { "sub_language": "Others", "total": 12299 }
+      ]
+    },
+    {
+      "name": "Koya",
+      "children": [{ "sub_language": "Koya", "total": 407423 }]
+    },
+    {
+      "name": "Kui",
+      "children": [
+        { "sub_language": "Kui", "total": 941377 },
+        { "sub_language": "Others", "total": 111 }
+      ]
+    },
+    {
+      "name": "Kuki",
+      "children": [
+        { "sub_language": "Kuki", "total": 82049 },
+        { "sub_language": "Others", "total": 1919 }
+      ]
+    },
+    {
+      "name": "Kurukh",
+      "children": [
+        { "sub_language": "Kurukh", "total": 1976920 },
+        { "sub_language": "Others", "total": 11430 }
+      ]
+    },
+    {
+      "name": "Ladakhi",
+      "children": [{ "sub_language": "Ladakhi", "total": 14952 }]
+    },
+    {
+      "name": "Lahauli",
+      "children": [
+        { "sub_language": "Lahauli", "total": 11162 },
+        { "sub_language": "Others", "total": 412 }
+      ]
+    },
+    {
+      "name": "Lahnda",
+      "children": [
+        { "sub_language": "Bahawal Puri", "total": 29253 },
+        { "sub_language": "Hindi Multani", "total": 61722 },
+        { "sub_language": "Others", "total": 17816 }
+      ]
+    },
+    {
+      "name": "Lakher",
+      "children": [
+        { "sub_language": "Mara", "total": 38671 },
+        { "sub_language": "Others", "total": 3758 }
+      ]
+    },
+    {
+      "name": "Lalung",
+      "children": [{ "sub_language": "Lalung", "total": 33921 }]
+    },
+    {
+      "name": "Lepcha",
+      "children": [{ "sub_language": "Lepcha", "total": 47331 }]
+    },
+    {
+      "name": "Liangmei",
+      "children": [
+        { "sub_language": "Liangmei", "total": 48388 },
+        { "sub_language": "Others", "total": 1423 }
+      ]
+    },
+    {
+      "name": "Limbu",
+      "children": [
+        { "sub_language": "Limbu", "total": 38067 },
+        { "sub_language": "Others", "total": 2768 }
+      ]
+    },
+    {
+      "name": "Lotha",
+      "children": [{ "sub_language": "Lotha", "total": 179467 }]
+    },
+    {
+      "name": "Lushai",
+      "children": [
+        { "sub_language": "Lushai", "total": 825900 },
+        { "sub_language": "Others", "total": 4946 }
+      ]
+    },
+    {
+      "name": "Maithili",
+      "children": [
+        { "sub_language": "Maithili", "total": 13353347 },
+        { "sub_language": "Purbi Maithili", "total": 11116 },
+        { "sub_language": "Thati", "total": 165420 },
+        { "sub_language": "Tharu", "total": 53575 },
+        { "sub_language": "Others", "total": 6 }
+      ]
+    },
+    {
+      "name": "Malayalam",
+      "children": [
+        { "sub_language": "Malayalam", "total": 34776533 },
+        { "sub_language": "Pania", "total": 22808 },
+        { "sub_language": "Yerava", "total": 26563 },
+        { "sub_language": "Others", "total": 12915 }
+      ]
+    },
+    {
+      "name": "Malto",
+      "children": [
+        { "sub_language": "Pahariya", "total": 152814 },
+        { "sub_language": "Kulehiya", "total": 75776 },
+        { "sub_language": "Others", "total": 6401 }
+      ]
+    },
+    {
+      "name": "Manipuri",
+      "children": [
+        { "sub_language": "Manipuri", "total": 1760913 },
+        { "sub_language": "Others", "total": 166 }
+      ]
+    },
+    {
+      "name": "Mao",
+      "children": [
+        { "sub_language": "Mao", "total": 97195 },
+        { "sub_language": "Paola", "total": 143001 },
+        { "sub_language": "Others", "total": 9 }
+      ]
+    },
+    {
+      "name": "Maram",
+      "children": [{ "sub_language": "Maram", "total": 32460 }]
+    },
+    {
+      "name": "Marathi",
+      "children": [
+        { "sub_language": "Are", "total": 53879 },
+        { "sub_language": "Koli", "total": 13809 },
+        { "sub_language": "Marathi", "total": 82801140 },
+        { "sub_language": "Others", "total": 157852 }
+      ]
+    },
+    {
+      "name": "Maring",
+      "children": [{ "sub_language": "Maring", "total": 25814 }]
+    },
+    {
+      "name": "Miri",
+      "children": [{ "sub_language": "Miri", "total": 629954 }]
+    },
+    {
+      "name": "Mishmi",
+      "children": [
+        { "sub_language": "Mishmi", "total": 15871 },
+        { "sub_language": "Others", "total": 28229 }
+      ]
+    },
+    {
+      "name": "Mogh",
+      "children": [
+        { "sub_language": "Mogh", "total": 36652 },
+        { "sub_language": "Others", "total": 13 }
+      ]
+    },
+    {
+      "name": "Monpa",
+      "children": [{ "sub_language": "Monpa", "total": 13703 }]
+    },
+    {
+      "name": "Munda",
+      "children": [
+        { "sub_language": "Kol", "total": 19868 },
+        { "sub_language": "Munda", "total": 464817 },
+        { "sub_language": "Others", "total": 21237 }
+      ]
+    },
+    {
+      "name": "Mundari",
+      "children": [
+        { "sub_language": "Mundari", "total": 1128050 },
+        { "sub_language": "Others", "total": 178 }
+      ]
+    },
+    {
+      "name": "Nepali",
+      "children": [
+        { "sub_language": "Nepali", "total": 2925796 },
+        { "sub_language": "Others", "total": 372 }
+      ]
+    },
+    {
+      "name": "Nicobarese",
+      "children": [{ "sub_language": "Nicobarese", "total": 29099 }]
+    },
+    {
+      "name": "Nissi",
+      "children": [
+        { "sub_language": "Apatani", "total": 44815 },
+        { "sub_language": "Nissi", "total": 289166 },
+        { "sub_language": "Tagin", "total": 62897 },
+        { "sub_language": "Others", "total": 9654 }
+      ]
+    },
+    {
+      "name": "Nocte",
+      "children": [
+        { "sub_language": "Nocte", "total": 29810 },
+        { "sub_language": "Others", "total": 1029 }
+      ]
+    },
+    {
+      "name": "Odia",
+      "children": [
+        { "sub_language": "Bhatri", "total": 334258 },
+        { "sub_language": "Bhuiya", "total": 32126 },
+        { "sub_language": "Bhumijali", "total": 34651 },
+        { "sub_language": "Desia", "total": 227313 },
+        { "sub_language": "Odia", "total": 34059266 },
+        { "sub_language": "Proja", "total": 156354 },
+        { "sub_language": "Relli", "total": 12969 },
+        { "sub_language": "Sambalpuri", "total": 2630381 },
+        { "sub_language": "Others", "total": 34006 }
+      ]
+    },
+    {
+      "name": "Paite",
+      "children": [
+        { "sub_language": "Paite", "total": 79443 },
+        { "sub_language": "Others", "total": 64 }
+      ]
+    },
+    {
+      "name": "Parji",
+      "children": [
+        { "sub_language": "Dhurwa", "total": 45938 },
+        { "sub_language": "Others", "total": 6411 }
+      ]
+    },
+    {
+      "name": "Pawi",
+      "children": [{ "sub_language": "Pawi", "total": 28639 }]
+    },
+    {
+      "name": "Phom",
+      "children": [{ "sub_language": "Phom", "total": 54416 }]
+    },
+    {
+      "name": "Pochury",
+      "children": [
+        { "sub_language": "Pochury", "total": 21568 },
+        { "sub_language": "Others", "total": 86 }
+      ]
+    },
+    {
+      "name": "Punjabi",
+      "children": [
+        { "sub_language": "Bagri", "total": 1656588 },
+        { "sub_language": "Bhateali", "total": 23970 },
+        { "sub_language": "Bilaspuri Kahluri", "total": 295805 },
+        { "sub_language": "Punjabi", "total": 31144095 },
+        { "sub_language": "Others", "total": 4268 }
+      ]
+    },
+    {
+      "name": "Rabha",
+      "children": [
+        { "sub_language": "Rabha", "total": 139985 },
+        { "sub_language": "Others", "total": 1 }
+      ]
+    },
+    {
+      "name": "Rai",
+      "children": [
+        { "sub_language": "Rai", "total": 10427 },
+        { "sub_language": "Others", "total": 5217 }
+      ]
+    },
+    {
+      "name": "Rengma",
+      "children": [{ "sub_language": "Rengma", "total": 65328 }]
+    },
+    {
+      "name": "Sangtam",
+      "children": [
+        { "sub_language": "Sangtam", "total": 75684 },
+        { "sub_language": "Others", "total": 316 }
+      ]
+    },
+    {
+      "name": "Sanskrit",
+      "children": [
+        { "sub_language": "Sanskrit", "total": 24709 },
+        { "sub_language": "Others", "total": 112 }
+      ]
+    },
+    {
+      "name": "Santali",
+      "children": [
+        { "sub_language": "Karmali", "total": 358579 },
+        { "sub_language": "Mahili", "total": 26399 },
+        { "sub_language": "Santali", "total": 6973345 },
+        { "sub_language": "Others", "total": 9869 }
+      ]
+    },
+    {
+      "name": "Savara",
+      "children": [
+        { "sub_language": "Savara", "total": 409481 },
+        { "sub_language": "Others", "total": 68 }
+      ]
+    },
+    {
+      "name": "Sema",
+      "children": [{ "sub_language": "Sema", "total": 10802 }]
+    },
+    {
+      "name": "Sherpa",
+      "children": [{ "sub_language": "Sherpa", "total": 16012 }]
+    },
+    {
+      "name": "Shina",
+      "children": [
+        { "sub_language": "Shina", "total": 32069 },
+        { "sub_language": "Others", "total": 178 }
+      ]
+    },
+    {
+      "name": "Sindhi",
+      "children": [
+        { "sub_language": "Bhatia", "total": 22409 },
+        { "sub_language": "Kachchhi", "total": 1030602 },
+        { "sub_language": "Sindhi", "total": 1679246 },
+        { "sub_language": "Others", "total": 40007 }
+      ]
+    },
+    {
+      "name": "Tamang",
+      "children": [{ "sub_language": "Tamang", "total": 20154 }]
+    },
+    {
+      "name": "Tamil",
+      "children": [
+        { "sub_language": "Irula", "total": 11870 },
+        { "sub_language": "Kaikadi", "total": 25870 },
+        { "sub_language": "Korava", "total": 10421 },
+        { "sub_language": "Tamil", "total": 68888839 },
+        { "sub_language": "Yerukala", "total": 58065 },
+        { "sub_language": "Others", "total": 31816 }
+      ]
+    },
+    {
+      "name": "Tangkhul",
+      "children": [
+        { "sub_language": "Tangkhul", "total": 187263 },
+        { "sub_language": "Others", "total": 13 }
+      ]
+    },
+    {
+      "name": "Tangsa",
+      "children": [
+        { "sub_language": "Tutcha Tangsa", "total": 10234 },
+        { "sub_language": "Others", "total": 28390 }
+      ]
+    },
+    {
+      "name": "Telugu",
+      "children": [
+        { "sub_language": "Telugu", "total": 80912459 },
+        { "sub_language": "Vadari", "total": 198020 },
+        { "sub_language": "Others", "total": 17261 }
+      ]
+    },
+    {
+      "name": "Thado",
+      "children": [
+        { "sub_language": "Thado", "total": 227114 },
+        { "sub_language": "Others", "total": 2226 }
+      ]
+    },
+    {
+      "name": "Tibetan",
+      "children": [
+        { "sub_language": "Tibetan", "total": 83779 },
+        { "sub_language": "Purkhi", "total": 93500 },
+        { "sub_language": "Others", "total": 5406 }
+      ]
+    },
+    {
+      "name": "Tripuri",
+      "children": [
+        { "sub_language": "Kokbarak", "total": 917900 },
+        { "sub_language": "Reang", "total": 58539 },
+        { "sub_language": "Tripuri", "total": 33138 },
+        { "sub_language": "Others", "total": 1717 }
+      ]
+    },
+    {
+      "name": "Tulu",
+      "children": [
+        { "sub_language": "Tulu", "total": 1841963 },
+        { "sub_language": "Others", "total": 4464 }
+      ]
+    },
+    {
+      "name": "Urdu",
+      "children": [
+        { "sub_language": "Urdu", "total": 50725762 },
+        { "sub_language": "Bhansari", "total": 22806 },
+        { "sub_language": "Others", "total": 24063 }
+      ]
+    },
+    {
+      "name": "Vaiphei",
+      "children": [{ "sub_language": "Vaiphei", "total": 42748 }]
+    },
+    {
+      "name": "Wancho",
+      "children": [{ "sub_language": "Wancho", "total": 59154 }]
+    },
+    {
+      "name": "Yimchungre",
+      "children": [
+        { "sub_language": "Chirr", "total": 12300 },
+        { "sub_language": "Tikhir", "total": 11071 },
+        { "sub_language": "Yimchungre", "total": 56538 },
+        { "sub_language": "Others", "total": 3350 }
+      ]
+    },
+    {
+      "name": "Zeliang",
+      "children": [{ "sub_language": "Zeliang", "total": 63529 }]
+    },
+    {
+      "name": "Zemi",
+      "children": [
+        { "sub_language": "Zemi", "total": 50923 },
+        { "sub_language": "Others", "total": 2 }
+      ]
+    },
+    { "name": "Zou", "children": [{ "sub_language": "Zou", "total": 26545 }] }
+  ]
+}
